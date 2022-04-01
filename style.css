@@ -58,9 +58,3 @@ button:hover {
 .equal-sign:hover {
   background-color: rgb(5, 167, 167);
 }
-
-.footer {
-  margin-top: 25px;
-  text-align: center;
-  color: rgba(0, 255, 255, 0.692);
-}
