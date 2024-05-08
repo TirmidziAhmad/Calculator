@@ -54,7 +54,7 @@ const calculate = () => {
       result = prevNumber * currentNumber;
       break;
     case "/":
-      result = prevNumber / currentNumber;
+      result = parseFloat(prevNumber) / parseFloat(currentNumber);
       break;
     default:
       return;
